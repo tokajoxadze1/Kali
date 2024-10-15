@@ -1,5 +1,6 @@
 # Kali System_Manager
-![system_manager](https://github.com/user-attachments/assets/aed9bd37-c8e9-4df9-96a5-407ef3fdbff0)
+![xx2](https://github.com/user-attachments/assets/b4b578fb-de66-4f29-b1fe-2c8373caf4a2)
+
 
 python system_manager.py
 
