@@ -1,5 +1,7 @@
-# Kali 
+# Kali System_Manager
+
 python system_manager.py
+
 📈 Program Description:
 This program is used to check system status, fix errors, optimize performance, and install missing drivers. It has a graphical user interface (GUI) that allows easy interaction with the program.
 🛡️ Features:
